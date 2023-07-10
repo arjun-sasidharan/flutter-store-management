@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ic_search_outline" transform="translate(0 0)">
+    <g id="ic_search_outline-2" data-name="ic_search_outline">
+      <path id="Path_416" data-name="Path 416" d="M33.662,19.256a6.628,6.628,0,1,1,6.628-6.628A6.628,6.628,0,0,1,33.662,19.256Zm0-11.973a5.345,5.345,0,1,0,5.345,5.345,5.345,5.345,0,0,0-5.345-5.345Z" transform="translate(-21.151 -5.296)" fill="#53626c"/>
+      <path id="Path_417" data-name="Path 417" d="M8.068,62.491a.641.641,0,0,1-.453-1.1l6.225-6.2a.641.641,0,1,1,.905.909L8.52,62.3A.64.64,0,0,1,8.068,62.491Z" transform="translate(-5.736 -43.827)" fill="#53626c"/>
+      <rect id="Rectangle_137" data-name="Rectangle 137" width="20" height="20" transform="translate(0 0)" fill="none"/>
+    </g>
+  </g>
+</svg>
